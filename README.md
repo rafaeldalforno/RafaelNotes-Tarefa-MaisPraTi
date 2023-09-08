@@ -1,5 +1,5 @@
 ## Tarefa Final em React do Módulo Bônus 
-# Trilha de Desenvolvimento Front-End do módulo bônus disponibilizado pela parceria +praTI juntamento com Codifida Edu.
+# Trilha de Desenvolvimento Front-End do módulo bônus disponibilizado pela parceria +praTI juntamente com Codifida Edu.
 
 Durante o Módulo Bônus da trilha de Front-End, o professor Henrique Casagrande, nos apresentou a tecnologia em 4 aulas. Onde juntamente com o professor desenvolvemos uma página em React, esta página consiste em uma aplicação que cria cards na página como espécie de lembretes. 
 Foi criado um cabeçalho com logo e o botão para criação do card de lembrete. Ao clicar no botão o usuário tem a possibilidade de dar um título para este lembrete e logo abaixo uma descrição mais detalhada. 
