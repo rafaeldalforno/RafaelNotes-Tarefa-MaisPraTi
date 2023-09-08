@@ -1,27 +1,10 @@
-# React + TypeScript + Vite
+## Tarefa Final em React do Módulo Bônus 
+# Trilha de Desenvolvimento Front-End do módulo bônus disponibilizado pela parceria +praTI juntamento com Codifida Edu.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Durante o Módulo Bônus da trilha de Front-End, o professor Henrique Casagrande, nos apresentou a tecnologia em 4 aulas. Onde juntamente com o professor desenvolvemos uma página em React, esta página consiste em uma aplicação que cria cards na página como espécie de lembretes. 
+Foi criado um cabeçalho com logo e o botão para criação do card de lembrete. Ao clicar no botão o usuário tem a possibilidade de dar um título para este lembrete e logo abaixo uma descrição mais detalhada. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A tarefa final proposta, era alterar a paleta de cores e imagens com base no que já tinhamos desenvolvido no exemplo das aulas. Dessa forma alterei para uma paleta de cores de minha escolha, também alterei a imagem principal da página, realizei a alteração da logo e do favIcon e título da página. 
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Esta tarefa me ajudou a reforçar alguns conceitos de React passados pelo professor Henrique. Como o tempo do curso era curto, o professor fez uma boa apresentação da tecnologia, dando uma boa ideia de como é trabalhar com React, também instalações de bibliotecas através do terminal. Aprendizados que certamente agregaram nos meus conhecimentos e que estarei estudando e reforçando mais estes ensinamentos passado no curso. 
